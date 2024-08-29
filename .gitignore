@@ -1,0 +1,11 @@
+
+create 
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+in input.css
+
+/*after creating apply this code in terminal "npx tailwindcss -i ./styles/input.css -o ./styles/output.css --watch"*/
+
